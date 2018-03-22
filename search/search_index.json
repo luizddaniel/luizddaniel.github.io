@@ -1,0 +1,524 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Luiz Fernando dos Santos Daniel\n\u00b6\n\n\nDocumenta\u00e7\u00e3o Pessoal de desenvolvimento.\n\n\nSou apaixonado por tecnologia e busco inovar todos os dias meu conhecimento, assim gosto muito de aprender novas tecnologias.\n\u00b6\n\n\nPossuo s\u00f3lidos conhecimentos em orienta\u00e7\u00e3o objeto, conhecimento em Java, Java Script, JSF, primefaces ,hibernate, Web services (Jersey), API Rest, CSS, HTML 5, banco de dados MYSQL, PostgreSQL, Firebird e comandos SQL.\n\u00b6\n\n\nI have knowledge advanced at reading and writing in english, but my level of conversation is intermediary. However, I study english everyday for improve my english.\n\u00b6\n\n\n\n\nInforma\u00e7\u00f5es\n\n\nFontes da documenta\u00e7\u00e3o com autentica\u00e7\u00e3o podem ser baixados\nem:\n\nhttps://github.com/luizddaniel/django_material\n\n\nMeu contato:\n(35)99848-5208\n\n\nMeu e-mail:\n\nl.fernando.sd@gmail.com",
+            "title": "Luiz Fernando dos Santos Daniel"
+        },
+        {
+            "location": "/#luiz-fernando-dos-santos-daniel",
+            "text": "Documenta\u00e7\u00e3o Pessoal de desenvolvimento.",
+            "title": "Luiz Fernando dos Santos Daniel"
+        },
+        {
+            "location": "/#sou-apaixonado-por-tecnologia-e-busco-inovar-todos-os-dias-meu-conhecimento-assim-gosto-muito-de-aprender-novas-tecnologias",
+            "text": "",
+            "title": "Sou apaixonado por tecnologia e busco inovar todos os dias meu conhecimento, assim gosto muito de aprender novas tecnologias."
+        },
+        {
+            "location": "/#possuo-solidos-conhecimentos-em-orientacao-objeto-conhecimento-em-java-java-script-jsf-primefaces-hibernate-web-services-jersey-api-rest-css-html-5-banco-de-dados-mysql-postgresql-firebird-e-comandos-sql",
+            "text": "",
+            "title": "Possuo s\u00f3lidos conhecimentos em orienta\u00e7\u00e3o objeto, conhecimento em Java, Java Script, JSF, primefaces ,hibernate, Web services (Jersey), API Rest, CSS, HTML 5, banco de dados MYSQL, PostgreSQL, Firebird e comandos SQL."
+        },
+        {
+            "location": "/#i-have-knowledge-advanced-at-reading-and-writing-in-english-but-my-level-of-conversation-is-intermediary-however-i-study-english-everyday-for-improve-my-english",
+            "text": "Informa\u00e7\u00f5es  Fontes da documenta\u00e7\u00e3o com autentica\u00e7\u00e3o podem ser baixados\nem: https://github.com/luizddaniel/django_material  Meu contato:\n(35)99848-5208  Meu e-mail: l.fernando.sd@gmail.com",
+            "title": "I have knowledge advanced at reading and writing in english, but my level of conversation is intermediary. However, I study english everyday for improve my english."
+        },
+        {
+            "location": "/sobre/",
+            "text": "Sobre\n\u00b6\n\n\n* Luiz Fernando dos Santos Daniel\n\n - Graduado em Sistemas de Informa\u00e7\u00e3o\n   Universidade do Vale do Sapuca\u00ed\n   Per\u00edodo 2008 \u00e0 2011\n\n - Portugu\u00eas: Nativo Fluente \n - Ingl\u00eas: Avan\u00e7ado",
+            "title": "Sobre"
+        },
+        {
+            "location": "/sobre/#sobre",
+            "text": "* Luiz Fernando dos Santos Daniel\n\n - Graduado em Sistemas de Informa\u00e7\u00e3o\n   Universidade do Vale do Sapuca\u00ed\n   Per\u00edodo 2008 \u00e0 2011\n\n - Portugu\u00eas: Nativo Fluente \n - Ingl\u00eas: Avan\u00e7ado",
+            "title": "Sobre"
+        },
+        {
+            "location": "/Administra\u00e7\u00e3o/Metodologia \u00c1gil/",
+            "text": "Metodologia \u00c1gil\n\u00b6\n\n\nKanban\n\u00b6\n\n\nMetodologia utilizada para o desenvolvimento dos projetos atuais, onde visa ter o maior controle das tarefas e produtividade.\n\u00b6",
+            "title": "Metodologia \u00c1gil"
+        },
+        {
+            "location": "/Administra\u00e7\u00e3o/Metodologia \u00c1gil/#metodologia-agil",
+            "text": "",
+            "title": "Metodologia \u00c1gil"
+        },
+        {
+            "location": "/Administra\u00e7\u00e3o/Metodologia \u00c1gil/#kanban",
+            "text": "",
+            "title": "Kanban"
+        },
+        {
+            "location": "/Administra\u00e7\u00e3o/Metodologia \u00c1gil/#metodologia-utilizada-para-o-desenvolvimento-dos-projetos-atuais-onde-visa-ter-o-maior-controle-das-tarefas-e-produtividade",
+            "text": "",
+            "title": "Metodologia utilizada para o desenvolvimento dos projetos atuais, onde visa ter o maior controle das tarefas e produtividade."
+        },
+        {
+            "location": "/Delphi/",
+            "text": "Delphi\n\u00b6\n\n\nProjeto Aplicativo Fiscal\n\u00b6\n\n\nGera\u00e7\u00e3o de Arquivo Sped ICMS / Sped Contribui\u00e7\u00f5es\n\u00b6\n\n\nEste projeto est\u00e1 sendo desenvolvido para a gera\u00e7\u00e3o de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribui\u00e7\u00f5es para as empresas do regime Lucro Presumido e Lucro Real.\n\u00b6\n\n\nEste projeto visa atender toda a legisla\u00e7\u00e3o brasileira vigente, no qual os arquivos s\u00e3o gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto est\u00e1 em constante mudan\u00e7a pois a legisla\u00e7\u00e3o brasileira vem sofrendo altera\u00e7\u00f5es a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exig\u00eancias.\n\u00b6\n\n\nProjeto privado.\n\u00b6",
+            "title": "Delphi"
+        },
+        {
+            "location": "/Delphi/#delphi",
+            "text": "",
+            "title": "Delphi"
+        },
+        {
+            "location": "/Delphi/#projeto-aplicativo-fiscal",
+            "text": "",
+            "title": "Projeto Aplicativo Fiscal"
+        },
+        {
+            "location": "/Delphi/#geracao-de-arquivo-sped-icms-sped-contribuicoes",
+            "text": "",
+            "title": "Gera\u00e7\u00e3o de Arquivo Sped ICMS / Sped Contribui\u00e7\u00f5es"
+        },
+        {
+            "location": "/Delphi/#este-projeto-esta-sendo-desenvolvido-para-a-geracao-de-arquivos-fiscais-como-sintegra-para-as-empresas-que-se-enquadram-no-regime-do-simples-nacional-sped-icms-e-sped-contribuicoes-para-as-empresas-do-regime-lucro-presumido-e-lucro-real",
+            "text": "",
+            "title": "Este projeto est\u00e1 sendo desenvolvido para a gera\u00e7\u00e3o de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribui\u00e7\u00f5es para as empresas do regime Lucro Presumido e Lucro Real."
+        },
+        {
+            "location": "/Delphi/#este-projeto-visa-atender-toda-a-legislacao-brasileira-vigente-no-qual-os-arquivos-sao-gerados-pelo-aplicativo-seguindo-o-manual-da-receita-sendo-assim-esse-projeto-esta-em-constante-mudanca-pois-a-legislacao-brasileira-vem-sofrendo-alteracoes-a-cada-semestre-tendo-que-estar-sempre-atualizando-o-aplicativo-para-atender-as-novas-exigencias",
+            "text": "",
+            "title": "Este projeto visa atender toda a legisla\u00e7\u00e3o brasileira vigente, no qual os arquivos s\u00e3o gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto est\u00e1 em constante mudan\u00e7a pois a legisla\u00e7\u00e3o brasileira vem sofrendo altera\u00e7\u00f5es a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exig\u00eancias."
+        },
+        {
+            "location": "/Delphi/#projeto-privado",
+            "text": "",
+            "title": "Projeto privado."
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/",
+            "text": "Usando Mkdocs Material\n\u00b6\n\n\nMkdocs Material - Link\n\n\nAtalhos\n\u00b6\n\n\n\n\nWell-designed search interface accessible through hotkeys (\nF\n or\n  \nS\n), intelligent grouping of search results, search term\n  highlighting and lazy loading.\n\n\n\n\nFavicon\n\u00b6\n\n\n\n\nDefault: \nassets/images/favicon.png\n\n\n\n\nImagem\n\u00b6\n\n\n\n\n\n\nAten\u00e7\u00e3o: \nSem Link\n\n\n\n\n\n\nLink\n\u00b6\n\n\nFor detailed instructions see the \ngetting started guide\n.\n\n\nHeadings\n\u00b6\n\n\nThe 3\nrd\n level\n\u00b6\n\n\nThe 4\nth\n level\n\u00b6\n\n\nThe 5\nth\n level\n\u00b6\n\n\nThe 6\nth\n level\n\u00b6\n\n\nHeadings \nwith secondary text\n\u00b6\n\n\nThe 3\nrd\n level \nwith secondary text\n\u00b6\n\n\nThe 4\nth\n level \nwith secondary text\n\u00b6\n\n\nThe 5\nth\n level \nwith secondary text\n\u00b6\n\n\nThe 6\nth\n level \nwith secondary text\n\u00b6\n\n\nBlockquotes\n\u00b6\n\n\n\n\nMorbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet rutrum.\n  Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Nam vehicula nunc\n  mauris, a ultricies libero efficitur sed. \nClass aptent\n taciti sociosqu ad\n  litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie\n  imperdiet consectetur.\n\n\n\n\nOther content blocks\n\u00b6\n\n\n\n\nVestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu\n  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,\n  sit amet laoreet nibh.\n  \nvar\n \n_extends\n \n=\n \nfunction\n(\ntarget\n)\n \n{\n\n  \nfor\n \n(\nvar\n \ni\n \n=\n \n1\n;\n \ni\n \n<\n \narguments\n.\nlength\n;\n \ni\n++\n)\n \n{\n\n    \nvar\n \nsource\n \n=\n \narguments\n[\ni\n];\n\n    \nfor\n \n(\nvar\n \nkey\n \nin\n \nsource\n)\n \n{\n\n      \ntarget\n[\nkey\n]\n \n=\n \nsource\n[\nkey\n];\n\n    \n}\n\n  \n}\n\n\n  \nreturn\n \ntarget\n;\n\n\n};\n\n\n\n\n\n\nPraesent at \nreturn\n \ntarget\n, sodales nibh vel, tempor felis. Fusce\n      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.\n      Donec consectetur mauris non neque imperdiet, eget volutpat libero.\n\n\n\n\n\n\nLists\n\u00b6\n\n\nUnordered lists\n\u00b6\n\n\n\n\n\n\nSed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus\n  non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,\n  at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.\n\n\n\n\nDuis mollis est eget nibh volutpat, fermentum aliquet dui mollis.\n\n\nNam vulputate tincidunt fringilla.\n\n\nNullam dignissim ultrices urna non auctor.\n\n\n\n\n\n\n\n\nAliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin ut\n  eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at aliquam\n  ac, aliquet sed mauris.\n\n\n\n\n\n\nNulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur\n  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh\n  lacinia sed. Aenean in finibus diam.\n\n\n\n\n\n\nOrdered lists\n\u00b6\n\n\n\n\n\n\nInteger vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis\n  elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla\n  consectetur feugiat sodales.\n\n\n\n\n\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur\n  ridiculus mus. Aliquam ornare feugiat quam et egestas. Nunc id erat et quam\n  pellentesque lacinia eu vel odio.\n\n\n\n\n\n\nVivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet\n  quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a\n  ultricies libero efficitur sed.\n\n\n\n\nMauris dictum mi lacus\n\n\nUt sit amet placerat ante\n\n\nSuspendisse ac eros arcu\n\n\n\n\n\n\n\n\nMorbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet\n  rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed\n  aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.\n\n\n\n\n\n\nPellentesque eget \nvar\n \n_extends\n ornare tellus, ut gravida mi.\n\nvar\n \n_extends\n \n=\n \nfunction\n(\ntarget\n)\n \n{\n\n\n  \nfor\n \n(\nvar\n \ni\n \n=\n \n1\n;\n \ni\n \n<\n \narguments\n.\nlength\n;\n \ni\n++\n)\n \n{\n\n    \nvar\n \nsource\n \n=\n \narguments\n[\ni\n];\n\n    \nfor\n \n(\nvar\n \nkey\n \nin\n \nsource\n)\n \n{\n\n      \ntarget\n[\nkey\n]\n \n=\n \nsource\n[\nkey\n];\n\n    \n}\n\n  \n}\n\n  \nreturn\n \ntarget\n;\n\n\n};\n\n\n\n\n\n\n\n\n\n\n\n\nDefinition lists\n\u00b6\n\n\n\n\nLorem ipsum dolor sit amet\n\n\n\n\nSed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus\ntellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor\nlobortis orci, at elementum urna sodales vitae. In in vehicula nulla.\n\n\nDuis mollis est eget nibh volutpat, fermentum aliquet dui mollis.\nNam vulputate tincidunt fringilla.\nNullam dignissim ultrices urna non auctor.\n\n\n\n\nCras arcu libero\n\n\n\n\nAliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin\nut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at\naliquam ac, aliquet sed mauris.\n\n\n\n\n\n\nCode blocks\n\u00b6\n\n\nInline\n\u00b6\n\n\nMorbi eget \ndapibus felis\n. Vivamus \nvenenatis porttitor\n tortor sit amet\nrutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,\nper inceptos himenaeos. \nPellentesque aliquet quam enim\n, eu volutpat urna\nrutrum a.\n\n\nNam vehicula nunc \nreturn\n \ntarget\n mauris, a ultricies libero efficitur\nsed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque\neget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.\n\n\nListing\n\u00b6\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\nvar\n \n_extends\n \n=\n \nfunction\n(\ntarget\n)\n \n{\n\n  \nfor\n \n(\nvar\n \ni\n \n=\n \n1\n;\n \ni\n \n<\n \narguments\n.\nlength\n;\n \ni\n++\n)\n \n{\n\n    \nvar\n \nsource\n \n=\n \narguments\n[\ni\n];\n\n    \nfor\n \n(\nvar\n \nkey\n \nin\n \nsource\n)\n \n{\n\n      \ntarget\n[\nkey\n]\n \n=\n \nsource\n[\nkey\n];\n\n    \n}\n\n  \n}\n\n\n  \nreturn\n \ntarget\n;\n\n\n};\n\n\n\n\n\n\n\nHorizontal rules\n\u00b6\n\n\nAenean in finibus diam. Duis mollis est eget nibh volutpat, fermentum aliquet\ndui mollis. Nam vulputate tincidunt fringilla. Nullam dignissim ultrices urna\nnon auctor.\n\n\n\n\nAnota\u00e7\u00f5es\n\u00b6\n\n\n\n\nWhy is there an edit button at the top of every article?\n\n\nIf the \nrepo_url\n is set to a GitHub or BitBucket repository, and the\n\nrepo_name\n is set to \nGitHub\n or \nBitBucket\n (implied by default), an\nedit button will appear at the top of every article. This is the automatic\nbehavior that MkDocs implements. See the \nMkDocs documentation\n on more\nguidance regarding the \nedit_uri\n attribute, which defines whether the edit\nbutton is shown or not.\n\n\n\n\n\n\nInstallation on macOS\n\n\nWhen you're running the pre-installed version of Python on macOS, \npip\n\ntries to install packages in a folder for which your user might not have\nthe adequate permissions. There are two possible solutions for this:\n\n\n\n\n\n\nInstalling in user space\n (recommended): Provide the \n--user\n flag\n  to the install command and \npip\n will install the package in a user-site\n  location. This is the recommended way.\n\n\n\n\n\n\nSwitching to a homebrewed Python\n: Upgrade your Python installation\n  to a self-contained solution by installing Python with Homebrew. This\n  should eliminate a lot of problems you may be having with \npip\n.\n\n\n\n\n\n\n\n\n\n\nError: unrecognized theme 'material'\n\n\nIf you run into this error, the most common reason is that you installed\nMkDocs through some package manager (e.g. Homebrew or \napt-get\n) and the\nMaterial theme through \npip\n, so both packages end up in different\nlocations. MkDocs only checks its install location for themes.\n\n\n\n\n\n\nSearch language support for Chinese\n\n\n[lunr-languages][18] currently doesn't include a stemmer for Chinese or\nother Asian languages, but uses the Japanese stemmer, as some users\nreported pretty decent results.\n\n\n\n\nPrimary colors\n\u00b6\n\n\n\n\nDefault: \nindigo\n\n\n\n\nClick on a tile to change the primary color of the theme:\n\n\nRed\n\n\nPink\n\n\nPurple\n\n\nDeep Purple\n\n\nIndigo\n\n\nBlue\n\n\nLight Blue\n\n\nCyan\n\n\nTeal\n\n\nGreen\n\n\nLight Green\n\n\nLime\n\n\nYellow\n\n\nAmber\n\n\nOrange\n\n\nDeep Orange\n\n\nBrown\n\n\nGrey\n\n\nBlue Grey\n\n\nWhite\n\n\n\n  var buttons = document.querySelectorAll(\"button[data-md-color-primary]\");\n  Array.prototype.forEach.call(buttons, function(button) {\n    button.addEventListener(\"click\", function() {\n      document.body.dataset.mdColorPrimary = this.dataset.mdColorPrimary;\n    })\n  })\n\n\n\n\nAccent colors\n\u00b6\n\n\n\n\nDefault: \nindigo\n\n\n\n\nClick on a tile to change the accent color of the theme:\n\n\nRed\n\n\nPink\n\n\nPurple\n\n\nDeep Purple\n\n\nIndigo\n\n\nBlue\n\n\nLight Blue\n\n\nCyan\n\n\nTeal\n\n\nGreen\n\n\nLight Green\n\n\nLime\n\n\nYellow\n\n\nAmber\n\n\nOrange\n\n\nDeep Orange\n\n\n\n  var buttons = document.querySelectorAll(\"button[data-md-color-accent]\");\n  Array.prototype.forEach.call(buttons, function(button) {\n    button.addEventListener(\"click\", function() {\n      document.body.dataset.mdColorAccent = this.dataset.mdColorAccent;\n    })\n  })\n\n\n\n\nFont family\n\u00b6\n\n\n\n\nDefault: \nRoboto\n and \nRoboto Mono\n\n\n\n\nBy default the \nRoboto font family\n is included with the theme, specifically\nthe regular sans-serif type for text and the \nmonospaced\n type for code. Both\nfonts are loaded from \nGoogle Fonts\n and can be changed to other fonts,\nlike for example the \nUbuntu font family\n:\n\n\ntheme\n:\n\n  \nfont\n:\n\n    \ntext\n:\n \n'Ubuntu'\n\n    \ncode\n:\n \n'Ubuntu\n \nMono'\n\n\n\n\n\nThe text font will be loaded in weights 400 and \n700\n, the \nmonospaced\n font\nin regular weight. If you want to load fonts from other destinations or don't\nwant to use the Google Fonts loading magic, just set \nfont\n to \nfalse\n:\n\n\ntheme\n:\n\n  \nfont\n:\n \nfalse\n\n\n\n\n\nData tables\n\u00b6\n\n\n\n\n\n\n\n\nSollicitudo / Pellentesi\n\n\nconsectetur\n\n\nadipiscing\n\n\nelit\n\n\narcu\n\n\nsed\n\n\n\n\n\n\n\n\n\n\nVivamus a pharetra\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nOrnare viverra ex\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nMauris a ullamcorper\n\n\nyes\n\n\nyes\n\n\npartial\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nNullam urna elit\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nMalesuada eget finibus\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nUllamcorper\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nVestibulum sodales\n\n\nyes\n\n\n-\n\n\nyes\n\n\n-\n\n\nyes\n\n\n\n\n\n\nPulvinar nisl\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n-\n\n\n-\n\n\n\n\n\n\nPharetra aliquet est\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nSed suscipit\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nOrci non pretium\n\n\nyes\n\n\npartial\n\n\n-\n\n\n-\n\n\n-\n\n\n\n\n\n\n\n\nSed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus\nnon sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,\nat elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.\n\n\n\n\n\n\n\n\nLeft\n\n\nCenter\n\n\nRight\n\n\n\n\n\n\n\n\n\n\nLorem\n\n\ndolor\n\n\namet\n\n\n\n\n\n\nipsum\n\n\nsit\n\n\n\n\n\n\n\n\n\n\nVestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu\nlectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,\nsit amet laoreet nibh.\n\n\n\n  \n\n    \n\n    \n\n  \n\n  \n\n    \n\n      \nTable\n\n      \nwith colgroups (Pandoc)\n\n    \n\n  \n\n  \n\n    \n\n      \nLorem\n\n      \nipsum dolor sit amet.\n\n    \n\n    \n\n      \nSed sagittis\n\n      \neleifend rutrum. Donec vitae suscipit est.\n\n    \n\n  \n\n\n\n\n\n\n\n\n  \n\n    \n\n      \nAvailable language stemmers\n\n    \n\n  \n\n  \n\n    \n\n      \nda\n / Danish\n\n      \ndu\n / Dutch\n\n      \nen\n / English\n\n      \nfi\n / Finnish\n\n    \n\n    \n\n      \nfr\n / French\n\n      \nde\n / German\n\n      \nhu\n / Hungarian\n\n      \nit\n / Italian\n\n    \n\n    \n\n      \njp\n / Japanese\n\n      \nno\n / Norwegian\n\n      \npt\n / Portugese\n\n      \nro\n / Romanian\n\n    \n\n    \n\n      \nru\n / Russian\n\n      \nes\n / Spanish\n\n      \nsv\n / Swedish\n\n      \ntr\n / Turkish",
+            "title": "Usando Mkdocs Material"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#usando-mkdocs-material",
+            "text": "Mkdocs Material - Link",
+            "title": "Usando Mkdocs Material"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#atalhos",
+            "text": "Well-designed search interface accessible through hotkeys ( F  or\n   S ), intelligent grouping of search results, search term\n  highlighting and lazy loading.",
+            "title": "Atalhos"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#favicon",
+            "text": "Default:  assets/images/favicon.png",
+            "title": "Favicon"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#imagem",
+            "text": "Aten\u00e7\u00e3o:  Sem Link",
+            "title": "Imagem"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#link",
+            "text": "For detailed instructions see the  getting started guide .",
+            "title": "Link"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#headings",
+            "text": "",
+            "title": "Headings"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-3rd-level",
+            "text": "",
+            "title": "The 3rd level"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-4th-level",
+            "text": "",
+            "title": "The 4th level"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-5th-level",
+            "text": "",
+            "title": "The 5th level"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-6th-level",
+            "text": "",
+            "title": "The 6th level"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#headings-with-secondary-text",
+            "text": "",
+            "title": "Headings with secondary text"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-3rd-level-with-secondary-text",
+            "text": "",
+            "title": "The 3rd level with secondary text"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-4th-level-with-secondary-text",
+            "text": "",
+            "title": "The 4th level with secondary text"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-5th-level-with-secondary-text",
+            "text": "",
+            "title": "The 5th level with secondary text"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#the-6th-level-with-secondary-text",
+            "text": "",
+            "title": "The 6th level with secondary text"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#blockquotes",
+            "text": "Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet rutrum.\n  Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Nam vehicula nunc\n  mauris, a ultricies libero efficitur sed.  Class aptent  taciti sociosqu ad\n  litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie\n  imperdiet consectetur.",
+            "title": "Blockquotes"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#other-content-blocks",
+            "text": "Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu\n  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,\n  sit amet laoreet nibh.\n   var   _extends   =   function ( target )   { \n   for   ( var   i   =   1 ;   i   <   arguments . length ;   i ++ )   { \n     var   source   =   arguments [ i ]; \n     for   ( var   key   in   source )   { \n       target [ key ]   =   source [ key ]; \n     } \n   }     return   target ;  };    Praesent at  return   target , sodales nibh vel, tempor felis. Fusce\n      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.\n      Donec consectetur mauris non neque imperdiet, eget volutpat libero.",
+            "title": "Other content blocks"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#lists",
+            "text": "",
+            "title": "Lists"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#unordered-lists",
+            "text": "Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus\n  non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,\n  at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.   Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.  Nam vulputate tincidunt fringilla.  Nullam dignissim ultrices urna non auctor.     Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin ut\n  eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at aliquam\n  ac, aliquet sed mauris.    Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur\n  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh\n  lacinia sed. Aenean in finibus diam.",
+            "title": "Unordered lists"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#ordered-lists",
+            "text": "Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis\n  elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla\n  consectetur feugiat sodales.    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur\n  ridiculus mus. Aliquam ornare feugiat quam et egestas. Nunc id erat et quam\n  pellentesque lacinia eu vel odio.    Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet\n  quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a\n  ultricies libero efficitur sed.   Mauris dictum mi lacus  Ut sit amet placerat ante  Suspendisse ac eros arcu     Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet\n  rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed\n  aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.    Pellentesque eget  var   _extends  ornare tellus, ut gravida mi. var   _extends   =   function ( target )   {     for   ( var   i   =   1 ;   i   <   arguments . length ;   i ++ )   { \n     var   source   =   arguments [ i ]; \n     for   ( var   key   in   source )   { \n       target [ key ]   =   source [ key ]; \n     } \n   } \n   return   target ;  };",
+            "title": "Ordered lists"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#definition-lists",
+            "text": "Lorem ipsum dolor sit amet   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus\ntellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor\nlobortis orci, at elementum urna sodales vitae. In in vehicula nulla.  Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.\nNam vulputate tincidunt fringilla.\nNullam dignissim ultrices urna non auctor.   Cras arcu libero   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin\nut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at\naliquam ac, aliquet sed mauris.",
+            "title": "Definition lists"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#code-blocks",
+            "text": "",
+            "title": "Code blocks"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#inline",
+            "text": "Morbi eget  dapibus felis . Vivamus  venenatis porttitor  tortor sit amet\nrutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,\nper inceptos himenaeos.  Pellentesque aliquet quam enim , eu volutpat urna\nrutrum a.  Nam vehicula nunc  return   target  mauris, a ultricies libero efficitur\nsed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque\neget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.",
+            "title": "Inline"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#listing",
+            "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 var   _extends   =   function ( target )   { \n   for   ( var   i   =   1 ;   i   <   arguments . length ;   i ++ )   { \n     var   source   =   arguments [ i ]; \n     for   ( var   key   in   source )   { \n       target [ key ]   =   source [ key ]; \n     } \n   }     return   target ;  };",
+            "title": "Listing"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#horizontal-rules",
+            "text": "Aenean in finibus diam. Duis mollis est eget nibh volutpat, fermentum aliquet\ndui mollis. Nam vulputate tincidunt fringilla. Nullam dignissim ultrices urna\nnon auctor.",
+            "title": "Horizontal rules"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#anotacoes",
+            "text": "Why is there an edit button at the top of every article?  If the  repo_url  is set to a GitHub or BitBucket repository, and the repo_name  is set to  GitHub  or  BitBucket  (implied by default), an\nedit button will appear at the top of every article. This is the automatic\nbehavior that MkDocs implements. See the  MkDocs documentation  on more\nguidance regarding the  edit_uri  attribute, which defines whether the edit\nbutton is shown or not.    Installation on macOS  When you're running the pre-installed version of Python on macOS,  pip \ntries to install packages in a folder for which your user might not have\nthe adequate permissions. There are two possible solutions for this:    Installing in user space  (recommended): Provide the  --user  flag\n  to the install command and  pip  will install the package in a user-site\n  location. This is the recommended way.    Switching to a homebrewed Python : Upgrade your Python installation\n  to a self-contained solution by installing Python with Homebrew. This\n  should eliminate a lot of problems you may be having with  pip .      Error: unrecognized theme 'material'  If you run into this error, the most common reason is that you installed\nMkDocs through some package manager (e.g. Homebrew or  apt-get ) and the\nMaterial theme through  pip , so both packages end up in different\nlocations. MkDocs only checks its install location for themes.    Search language support for Chinese  [lunr-languages][18] currently doesn't include a stemmer for Chinese or\nother Asian languages, but uses the Japanese stemmer, as some users\nreported pretty decent results.",
+            "title": "Anota\u00e7\u00f5es"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#primary-colors",
+            "text": "Default:  indigo   Click on a tile to change the primary color of the theme:  Red  Pink  Purple  Deep Purple  Indigo  Blue  Light Blue  Cyan  Teal  Green  Light Green  Lime  Yellow  Amber  Orange  Deep Orange  Brown  Grey  Blue Grey  White  \n  var buttons = document.querySelectorAll(\"button[data-md-color-primary]\");\n  Array.prototype.forEach.call(buttons, function(button) {\n    button.addEventListener(\"click\", function() {\n      document.body.dataset.mdColorPrimary = this.dataset.mdColorPrimary;\n    })\n  })",
+            "title": "Primary colors"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#accent-colors",
+            "text": "Default:  indigo   Click on a tile to change the accent color of the theme:  Red  Pink  Purple  Deep Purple  Indigo  Blue  Light Blue  Cyan  Teal  Green  Light Green  Lime  Yellow  Amber  Orange  Deep Orange  \n  var buttons = document.querySelectorAll(\"button[data-md-color-accent]\");\n  Array.prototype.forEach.call(buttons, function(button) {\n    button.addEventListener(\"click\", function() {\n      document.body.dataset.mdColorAccent = this.dataset.mdColorAccent;\n    })\n  })",
+            "title": "Accent colors"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#font-family",
+            "text": "Default:  Roboto  and  Roboto Mono   By default the  Roboto font family  is included with the theme, specifically\nthe regular sans-serif type for text and the  monospaced  type for code. Both\nfonts are loaded from  Google Fonts  and can be changed to other fonts,\nlike for example the  Ubuntu font family :  theme : \n   font : \n     text :   'Ubuntu' \n     code :   'Ubuntu   Mono'   The text font will be loaded in weights 400 and  700 , the  monospaced  font\nin regular weight. If you want to load fonts from other destinations or don't\nwant to use the Google Fonts loading magic, just set  font  to  false :  theme : \n   font :   false",
+            "title": "Font family"
+        },
+        {
+            "location": "/Desenvolvimento/Mkdocs/#data-tables",
+            "text": "Sollicitudo / Pellentesi  consectetur  adipiscing  elit  arcu  sed      Vivamus a pharetra  yes  yes  yes  yes  yes    Ornare viverra ex  yes  yes  yes  yes  yes    Mauris a ullamcorper  yes  yes  partial  yes  yes    Nullam urna elit  yes  yes  yes  yes  yes    Malesuada eget finibus  yes  yes  yes  yes  yes    Ullamcorper  yes  yes  yes  yes  yes    Vestibulum sodales  yes  -  yes  -  yes    Pulvinar nisl  yes  yes  yes  -  -    Pharetra aliquet est  yes  yes  yes  yes  yes    Sed suscipit  yes  yes  yes  yes  yes    Orci non pretium  yes  partial  -  -  -     Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus\nnon sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,\nat elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.     Left  Center  Right      Lorem  dolor  amet    ipsum  sit      Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu\nlectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,\nsit amet laoreet nibh.  \n   \n     \n     \n   \n   \n     \n       Table \n       with colgroups (Pandoc) \n     \n   \n   \n     \n       Lorem \n       ipsum dolor sit amet. \n     \n     \n       Sed sagittis \n       eleifend rutrum. Donec vitae suscipit est. \n     \n      \n   \n     \n       Available language stemmers \n     \n   \n   \n     \n       da  / Danish \n       du  / Dutch \n       en  / English \n       fi  / Finnish \n     \n     \n       fr  / French \n       de  / German \n       hu  / Hungarian \n       it  / Italian \n     \n     \n       jp  / Japanese \n       no  / Norwegian \n       pt  / Portugese \n       ro  / Romanian \n     \n     \n       ru  / Russian \n       es  / Spanish \n       sv  / Swedish \n       tr  / Turkish",
+            "title": "Data tables"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/",
+            "text": "01. Preparando Ambiente\n\u00b6\n\n\nRequisitos\n\u00b6\n\n\n\n\nSoftwares\n\n\npython 3.6.4\n\n\npip 9.0.\n\n\n\n\npython -V\npip -V\n\n\n\n\n\n\nInforma\u00e7\u00f5es para Conhecimento\n\n\nConceito: Framework de desenvolvimento WEB escrito em python.\n\n\nDisponibilizado pela primeira vez em Julho de 2015.\n\n\nVers\u00e3o atual: 2.0\n\n\ngithub: \nhttps://github.com/django/django\n\n\n\n\nPrepara\u00e7\u00e3o do Ambiente\n\u00b6\n\n\n\n\n\n\nInstalar a \u00faltima vers\u00e3o do \nPython\n.\n\n\n\n\n\n\nEntrar no prompt do msdos \niniciar > executar: cmd <enter>\n e criar a pasta do seu projeto, no exemplo: web_django.\n\n\n\n\n\n\nWINDOWS:\n\n\n1\n2\n3\n4\ncd\\\nc:\\\n\nmkdir web_django\n\ncd\\web_django\n\n\n\n\n\n\n\n\nCriar e entrar na pasta do seu PROJETO.\n\n\n\n\nWINDOWS:\n\n\n1\n2\nmkdir meu_projeto\ncd meu_projeto\n\n\n\n\n\n\nCriando o Virtual Env\n\u00b6\n\n\n\n\nCriar uma Virtual Env para te isolar do sistema operacional. Ou seja, criar um ambiente virtual onde eu possa ter o Django sem afetar o sistema operacional podendo assim eu trabalhar com m\u00faltiplas vers\u00f5es.\n\n\n\n\nWINDOWS:\n\n\n1\npython -m venv .venv\n\n\n\n\n\n\n\n\n.venv\n\n\nO .venv poderia ser qualquer coisa, exemplo: meuvirtualenv, ou env, ou virtualenv.\n\n\nPor conven\u00e7\u00e3o e boas pr\u00e1ticas \u00e9 muito utilizado o .venv\n\n\n\n\nAtivando o Virtual Env\n\u00b6\n\n\n\n\nPara ativar a Virtual Env, basta executar:\n\n\n\n\nWINDOWS:\n\n\n1\n.\\venv\\Scripts\\activate\n\n\n\n\n\n\nAutomatizando o Activate no Windows\n\u00b6\n\n\n\n\nDeixando o activate automatizado\n\n\nCrie o arquivo activate.bat na raiz do seu projeto\n\n\nWINDOWS:\n\n\ncopy con activate.bat\n e \nenter\n e digite o conte\u00fado abaixo:\n\n\n1\n.venv\\Scripts\\activate.bat\n\n\n\n\n\n\nPressione a tecla \nF6\n e depois \nenter\n para salvar.\n\n\nEntre no > diret\u00f3rio: \ncd .venv\\Scripts\n\n\nDigite: \ncopy con manage.bat\n e \nenter\n e digite o conte\u00fado abaixo:\n\n\n1\n@python \"%VIRTUAL_ENV%\\..\\manage.py\" %*\n\n\n\n\n\n\nPressione a tecla \nF6\n e depois \nenter\n para salvar.\n\n\nPronto, agora para ativar o Virtual Env, basta voc\u00ea digitar: \nactivate\n na raiz do seu projeto e para executar o ARTISAN do Python (manage.py), basta digitar: \nmanage <instru\u00e7\u00f5es de comando>\n.\n\n\n\n\nActivate e Deactivate\n\u00b6\n\n\n\n\nActivate / Deactivate Virtual Env\n\n\nPara entrar, uma vez feito o processo de automa\u00e7\u00e3o acima: \nactivate.bat\n ou caso n\u00e3o queira fazer: \n.venv\\Scripts\\activate\n e voc\u00ea notar\u00e1 que no seu prompt ser\u00e1 adicionado o (.venv) na frente do path.\n\n\nPara sair da Virtual Env do seu projeto, basta digitar o > comando: \ndeactivate\n e voc\u00ea notar\u00e1 que ser\u00e1 removido o (.venv) do path.\n\n\n\n\n\n\nVirtual Env\n\n\nPara voc\u00ea saber se o virtual env est\u00e1 ativo, basta ver se na frente do seu path no prompt est\u00e1 o escrito: \n(.venv)\n, exemplo: \n(.venv) c:\\web_django\\meu_projeto\n\n\nCaso n\u00e3o esteja, basta ativar conforme a instru\u00e7\u00e3o acima: \nactivate\n.",
+            "title": "01. Preparando Ambiente"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#01-preparando-ambiente",
+            "text": "",
+            "title": "01. Preparando Ambiente"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#requisitos",
+            "text": "Softwares  python 3.6.4  pip 9.0.   python -V\npip -V   Informa\u00e7\u00f5es para Conhecimento  Conceito: Framework de desenvolvimento WEB escrito em python.  Disponibilizado pela primeira vez em Julho de 2015.  Vers\u00e3o atual: 2.0  github:  https://github.com/django/django",
+            "title": "Requisitos"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#preparacao-do-ambiente",
+            "text": "Instalar a \u00faltima vers\u00e3o do  Python .    Entrar no prompt do msdos  iniciar > executar: cmd <enter>  e criar a pasta do seu projeto, no exemplo: web_django.    WINDOWS:  1\n2\n3\n4 cd\\\nc:\\ mkdir web_django cd\\web_django    Criar e entrar na pasta do seu PROJETO.   WINDOWS:  1\n2 mkdir meu_projeto\ncd meu_projeto",
+            "title": "Prepara\u00e7\u00e3o do Ambiente"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#criando-o-virtual-env",
+            "text": "Criar uma Virtual Env para te isolar do sistema operacional. Ou seja, criar um ambiente virtual onde eu possa ter o Django sem afetar o sistema operacional podendo assim eu trabalhar com m\u00faltiplas vers\u00f5es.   WINDOWS:  1 python -m venv .venv    .venv  O .venv poderia ser qualquer coisa, exemplo: meuvirtualenv, ou env, ou virtualenv.  Por conven\u00e7\u00e3o e boas pr\u00e1ticas \u00e9 muito utilizado o .venv",
+            "title": "Criando o Virtual Env"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#ativando-o-virtual-env",
+            "text": "Para ativar a Virtual Env, basta executar:   WINDOWS:  1 .\\venv\\Scripts\\activate",
+            "title": "Ativando o Virtual Env"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#automatizando-o-activate-no-windows",
+            "text": "Deixando o activate automatizado  Crie o arquivo activate.bat na raiz do seu projeto  WINDOWS:  copy con activate.bat  e  enter  e digite o conte\u00fado abaixo:  1 .venv\\Scripts\\activate.bat   Pressione a tecla  F6  e depois  enter  para salvar.  Entre no > diret\u00f3rio:  cd .venv\\Scripts  Digite:  copy con manage.bat  e  enter  e digite o conte\u00fado abaixo:  1 @python \"%VIRTUAL_ENV%\\..\\manage.py\" %*   Pressione a tecla  F6  e depois  enter  para salvar.  Pronto, agora para ativar o Virtual Env, basta voc\u00ea digitar:  activate  na raiz do seu projeto e para executar o ARTISAN do Python (manage.py), basta digitar:  manage <instru\u00e7\u00f5es de comando> .",
+            "title": "Automatizando o Activate no Windows"
+        },
+        {
+            "location": "/Django/01. Preparando Ambiente/#activate-e-deactivate",
+            "text": "Activate / Deactivate Virtual Env  Para entrar, uma vez feito o processo de automa\u00e7\u00e3o acima:  activate.bat  ou caso n\u00e3o queira fazer:  .venv\\Scripts\\activate  e voc\u00ea notar\u00e1 que no seu prompt ser\u00e1 adicionado o (.venv) na frente do path.  Para sair da Virtual Env do seu projeto, basta digitar o > comando:  deactivate  e voc\u00ea notar\u00e1 que ser\u00e1 removido o (.venv) do path.    Virtual Env  Para voc\u00ea saber se o virtual env est\u00e1 ativo, basta ver se na frente do seu path no prompt est\u00e1 o escrito:  (.venv) , exemplo:  (.venv) c:\\web_django\\meu_projeto  Caso n\u00e3o esteja, basta ativar conforme a instru\u00e7\u00e3o acima:  activate .",
+            "title": "Activate e Deactivate"
+        },
+        {
+            "location": "/Django/02. Instalando o Django/",
+            "text": "02. Instalando o Django\n\u00b6\n\n\nInstala\u00e7\u00e3o\n\u00b6\n\n\nEstando na pasta do seu projeto com o Virtual Env ativo (.venv): \n(.venv) c:\\web_django\\meu_projeto\n\n\n1\npip install django\n\n\n\n\n\n\n\n\nEu posso instalar o django N\u00c3O estando na minha virtual env?\n\n\nN\u00e3o, o correto \u00e9 voc\u00ea instalar o seu django na sua virtual env criada. Ent\u00e3o esteja sempre com ela ativa.\n\n\n\n\nVerificando a Instala\u00e7\u00e3o\n\u00b6\n\n\n\n\nVerificando a vers\u00e3o do django instalada\n\n\nWINDOWS:\n\n\n1\n2\n3\npython\nimport django\ndjango.VERSION\n\n\n\n\n\n\nSair\u00e1 algo do tipo:\n\n\n1\n2\n3\n  >>> import django\n  >>> django.VERSION\n  (2, 0, 3, 'final', 0)\n\n\n\n\n\n\nDigite exit() e \nenter\n para sair\n\n\n1\nexit()\n\n\n\n\n\n\n\n\nVerificando os Pacotes Instalados\n\u00b6\n\n\n\n\nVerificando os pacotes instalados at\u00e9 o presente momento no .venv\n\n\nPara voc\u00ea saber o que foi instalado at\u00e9 o presente momento, basta digitar o comando: \npip freeze\n.\n\n\nVoc\u00ea dever\u00e1 ter algo como do tipo:\n\n\n1\n2\nDjango==2.0.3\npytz==2018.3",
+            "title": "02. Instalando o Django"
+        },
+        {
+            "location": "/Django/02. Instalando o Django/#02-instalando-o-django",
+            "text": "",
+            "title": "02. Instalando o Django"
+        },
+        {
+            "location": "/Django/02. Instalando o Django/#instalacao",
+            "text": "Estando na pasta do seu projeto com o Virtual Env ativo (.venv):  (.venv) c:\\web_django\\meu_projeto  1 pip install django    Eu posso instalar o django N\u00c3O estando na minha virtual env?  N\u00e3o, o correto \u00e9 voc\u00ea instalar o seu django na sua virtual env criada. Ent\u00e3o esteja sempre com ela ativa.",
+            "title": "Instala\u00e7\u00e3o"
+        },
+        {
+            "location": "/Django/02. Instalando o Django/#verificando-a-instalacao",
+            "text": "Verificando a vers\u00e3o do django instalada  WINDOWS:  1\n2\n3 python\nimport django\ndjango.VERSION   Sair\u00e1 algo do tipo:  1\n2\n3   >>> import django\n  >>> django.VERSION\n  (2, 0, 3, 'final', 0)   Digite exit() e  enter  para sair  1 exit()",
+            "title": "Verificando a Instala\u00e7\u00e3o"
+        },
+        {
+            "location": "/Django/02. Instalando o Django/#verificando-os-pacotes-instalados",
+            "text": "Verificando os pacotes instalados at\u00e9 o presente momento no .venv  Para voc\u00ea saber o que foi instalado at\u00e9 o presente momento, basta digitar o comando:  pip freeze .  Voc\u00ea dever\u00e1 ter algo como do tipo:  1\n2 Django==2.0.3\npytz==2018.3",
+            "title": "Verificando os Pacotes Instalados"
+        },
+        {
+            "location": "/Django/03. Criando nosso Projeto/",
+            "text": "03. Criando o nosso projeto\n\u00b6\n\n\nGerando o projeto: api\n\u00b6\n\n\n1\ndjango-admin startproject api .\n\n\n\n\n\n\n\n\n\u00c9 importante digitar o ponto (.)?\n\n\n\u00c9 importante digitar o ponto (.) para evitar que o admin do django crie uma pasta dentro da outra com o mesmo nome.\n\n\n\n\nEstrutura de Arquivos\n\u00b6\n\n\n\n\nEstrutura de Arquivos : descri\u00e7\u00e3o resumida\n\n\n__init__.py\n : significa que tudo que estiver dentro da pasta \u00e9 um pacote do django.\n\n\nsettings.py\n : arquivo mais importante do django.\n\n\nurls.py\n: arquivo de rotas do django.\n\n\nwsgi.py\n: arquivo que utilizamos para ser o entrypoint da aplica\u00e7\u00e3o. Ser\u00e1 aonde iremos configurar o servidor e os arquivos est\u00e1ticos. Bom lembrar que o django n\u00e3o cuida dos arquivos est\u00e1ticos.",
+            "title": "03. Criando o nosso projeto"
+        },
+        {
+            "location": "/Django/03. Criando nosso Projeto/#03-criando-o-nosso-projeto",
+            "text": "",
+            "title": "03. Criando o nosso projeto"
+        },
+        {
+            "location": "/Django/03. Criando nosso Projeto/#gerando-o-projeto-api",
+            "text": "1 django-admin startproject api .    \u00c9 importante digitar o ponto (.)?  \u00c9 importante digitar o ponto (.) para evitar que o admin do django crie uma pasta dentro da outra com o mesmo nome.",
+            "title": "Gerando o projeto: api"
+        },
+        {
+            "location": "/Django/03. Criando nosso Projeto/#estrutura-de-arquivos",
+            "text": "Estrutura de Arquivos : descri\u00e7\u00e3o resumida  __init__.py  : significa que tudo que estiver dentro da pasta \u00e9 um pacote do django.  settings.py  : arquivo mais importante do django.  urls.py : arquivo de rotas do django.  wsgi.py : arquivo que utilizamos para ser o entrypoint da aplica\u00e7\u00e3o. Ser\u00e1 aonde iremos configurar o servidor e os arquivos est\u00e1ticos. Bom lembrar que o django n\u00e3o cuida dos arquivos est\u00e1ticos.",
+            "title": "Estrutura de Arquivos"
+        },
+        {
+            "location": "/Django/04. Iniciando a nossa primeira App/",
+            "text": "04. Iniciando a nossa primeira App\n\u00b6\n\n\nIniciando / Gerando a nossa primeira App\n\u00b6\n\n\n1\nmanage startapp core\n\n\n\n\n\n\nPronto, a nossa primeira aplica\u00e7\u00e3o, ou aplica\u00e7\u00e3o principal j\u00e1 foi criada. Voc\u00ea vai notar que surgiu uma pasta core na estrutura de diret\u00f3rios do nosso projeto.",
+            "title": "04. Iniciando a nossa primeira App"
+        },
+        {
+            "location": "/Django/04. Iniciando a nossa primeira App/#04-iniciando-a-nossa-primeira-app",
+            "text": "",
+            "title": "04. Iniciando a nossa primeira App"
+        },
+        {
+            "location": "/Django/04. Iniciando a nossa primeira App/#iniciando-gerando-a-nossa-primeira-app",
+            "text": "1 manage startapp core   Pronto, a nossa primeira aplica\u00e7\u00e3o, ou aplica\u00e7\u00e3o principal j\u00e1 foi criada. Voc\u00ea vai notar que surgiu uma pasta core na estrutura de diret\u00f3rios do nosso projeto.",
+            "title": "Iniciando / Gerando a nossa primeira App"
+        },
+        {
+            "location": "/Java/",
+            "text": "JAVA\n\u00b6\n\n\nProjeto Controle de Patrim\u00f4nio\n\u00b6\n\n\nWorkshop Angular-Rest-Spring - Per\u00edodo: Fev 2018 \u2013 Mar 2018\n\u00b6\n\n\nProjeto desenvolvido no workshop-rest-angular-spring da AlgaWorks, no qual foi desenvolvido uma aplica\u00e7\u00e3o para controlar patrim\u00f4nio de uma empresa, bakend desenvolvido em JAVA utilizando o controle de dependencias com o POM.xml do Maven e utilizado o framework spring.\n\u00b6\n\n\nEste reposit\u00f3rio contem a aplica\u00e7\u00e3o RESTful desenvolvida com Java e Spring no back-end e Angular 4 no front-end com PrimeNG.\n\u00b6\n\n\nSee Workshop Project\n\n\n\n\n\nTask Project\n\u00b6\n\n\nProject name Task Project - Per\u00edodo: Jul 2016 \u2013 Sep 2016\n\u00b6\n\n\nProjeto de controle de tarefas e cadastro de usu\u00e1rios, no qual foi utilizado Hibernate configurado tanto para banco PostgreSQL como para MySQL com a necessidade de apenas alterar a configura\u00e7\u00e3o do hibernate.xml - Linguagem de desenvolvimento Java com JSF e Primefaces, tamb\u00e9m foi utilizado o framework Spring Security para o desenvolvimento do login com seguran\u00e7a.\n\u00b6\n\n\nSee Task Project\n\n\n\n\n\nMoto T\u00e1xi Project\n\u00b6\n\n\nProjeto Moto T\u00e1xi - Per\u00edodo: Mar 2010 \u2013 Dec 2010\n\u00b6\n\n\nProject descriptionProjeto desenvolvido para o Trabalho de Conclus\u00e3o de Curso - TCC.\n\u00b6\n\n\nEste projeto visa controlar todos os servi\u00e7os prestados de um Motoboy, onde a central tenha as informa\u00e7\u00f5es dos hor\u00e1rios, destino, cliente e valor do servi\u00e7o prestado.\n\u00b6\n\n\nCom esse software \u00e9 poss\u00edvel obter em relat\u00f3rios as informa\u00e7\u00f5es mensais dos servi\u00e7os prestados, tal como o cliente que mais utilizou o servi\u00e7o, qual motoboy que mais prestou servi\u00e7os e qual foi o Motoboy que prestou determinado servi\u00e7o para uma futura confer\u00eancia caso haja alguma irregularidade no servi\u00e7o prestado, no qual visa a melhorar o atendimento aos clientes.\n\u00b6\n\n\nEste projeto foi desenvolvido em Java utilizando o padr\u00e3o MVC utilizando JavaSwing e banco de dados PostgreSQL com portabilidade para o hsqldb.\n\u00b6\n\n\nO projeto foi desenvolvido seguindo todas as etapas de desenvolvimento, desde o levantamento de requisitos, engenharia de software, desenvolvimento do projeto, manual do sistema e a implanta\u00e7\u00e3o real do sistema em um cliente.\n\u00b6\n\n\nSee Projeto Moto T\u00e1xi",
+            "title": "JAVA"
+        },
+        {
+            "location": "/Java/#java",
+            "text": "",
+            "title": "JAVA"
+        },
+        {
+            "location": "/Java/#projeto-controle-de-patrimonio",
+            "text": "",
+            "title": "Projeto Controle de Patrim\u00f4nio"
+        },
+        {
+            "location": "/Java/#workshop-angular-rest-spring-periodo-fev-2018-mar-2018",
+            "text": "",
+            "title": "Workshop Angular-Rest-Spring - Per\u00edodo: Fev 2018 \u2013 Mar 2018"
+        },
+        {
+            "location": "/Java/#projeto-desenvolvido-no-workshop-rest-angular-spring-da-algaworks-no-qual-foi-desenvolvido-uma-aplicacao-para-controlar-patrimonio-de-uma-empresa-bakend-desenvolvido-em-java-utilizando-o-controle-de-dependencias-com-o-pomxml-do-maven-e-utilizado-o-framework-spring",
+            "text": "",
+            "title": "Projeto desenvolvido no workshop-rest-angular-spring da AlgaWorks, no qual foi desenvolvido uma aplica\u00e7\u00e3o para controlar patrim\u00f4nio de uma empresa, bakend desenvolvido em JAVA utilizando o controle de dependencias com o POM.xml do Maven e utilizado o framework spring."
+        },
+        {
+            "location": "/Java/#este-repositorio-contem-a-aplicacao-restful-desenvolvida-com-java-e-spring-no-back-end-e-angular-4-no-front-end-com-primeng",
+            "text": "See Workshop Project",
+            "title": "Este reposit\u00f3rio contem a aplica\u00e7\u00e3o RESTful desenvolvida com Java e Spring no back-end e Angular 4 no front-end com PrimeNG."
+        },
+        {
+            "location": "/Java/#task-project",
+            "text": "",
+            "title": "Task Project"
+        },
+        {
+            "location": "/Java/#project-name-task-project-periodo-jul-2016-sep-2016",
+            "text": "",
+            "title": "Project name Task Project - Per\u00edodo: Jul 2016 \u2013 Sep 2016"
+        },
+        {
+            "location": "/Java/#projeto-de-controle-de-tarefas-e-cadastro-de-usuarios-no-qual-foi-utilizado-hibernate-configurado-tanto-para-banco-postgresql-como-para-mysql-com-a-necessidade-de-apenas-alterar-a-configuracao-do-hibernatexml-linguagem-de-desenvolvimento-java-com-jsf-e-primefaces-tambem-foi-utilizado-o-framework-spring-security-para-o-desenvolvimento-do-login-com-seguranca",
+            "text": "See Task Project",
+            "title": "Projeto de controle de tarefas e cadastro de usu\u00e1rios, no qual foi utilizado Hibernate configurado tanto para banco PostgreSQL como para MySQL com a necessidade de apenas alterar a configura\u00e7\u00e3o do hibernate.xml - Linguagem de desenvolvimento Java com JSF e Primefaces, tamb\u00e9m foi utilizado o framework Spring Security para o desenvolvimento do login com seguran\u00e7a."
+        },
+        {
+            "location": "/Java/#moto-taxi-project",
+            "text": "",
+            "title": "Moto T\u00e1xi Project"
+        },
+        {
+            "location": "/Java/#projeto-moto-taxi-periodo-mar-2010-dec-2010",
+            "text": "",
+            "title": "Projeto Moto T\u00e1xi - Per\u00edodo: Mar 2010 \u2013 Dec 2010"
+        },
+        {
+            "location": "/Java/#project-descriptionprojeto-desenvolvido-para-o-trabalho-de-conclusao-de-curso-tcc",
+            "text": "",
+            "title": "Project descriptionProjeto desenvolvido para o Trabalho de Conclus\u00e3o de Curso - TCC."
+        },
+        {
+            "location": "/Java/#este-projeto-visa-controlar-todos-os-servicos-prestados-de-um-motoboy-onde-a-central-tenha-as-informacoes-dos-horarios-destino-cliente-e-valor-do-servico-prestado",
+            "text": "",
+            "title": "Este projeto visa controlar todos os servi\u00e7os prestados de um Motoboy, onde a central tenha as informa\u00e7\u00f5es dos hor\u00e1rios, destino, cliente e valor do servi\u00e7o prestado."
+        },
+        {
+            "location": "/Java/#com-esse-software-e-possivel-obter-em-relatorios-as-informacoes-mensais-dos-servicos-prestados-tal-como-o-cliente-que-mais-utilizou-o-servico-qual-motoboy-que-mais-prestou-servicos-e-qual-foi-o-motoboy-que-prestou-determinado-servico-para-uma-futura-conferencia-caso-haja-alguma-irregularidade-no-servico-prestado-no-qual-visa-a-melhorar-o-atendimento-aos-clientes",
+            "text": "",
+            "title": "Com esse software \u00e9 poss\u00edvel obter em relat\u00f3rios as informa\u00e7\u00f5es mensais dos servi\u00e7os prestados, tal como o cliente que mais utilizou o servi\u00e7o, qual motoboy que mais prestou servi\u00e7os e qual foi o Motoboy que prestou determinado servi\u00e7o para uma futura confer\u00eancia caso haja alguma irregularidade no servi\u00e7o prestado, no qual visa a melhorar o atendimento aos clientes."
+        },
+        {
+            "location": "/Java/#este-projeto-foi-desenvolvido-em-java-utilizando-o-padrao-mvc-utilizando-javaswing-e-banco-de-dados-postgresql-com-portabilidade-para-o-hsqldb",
+            "text": "",
+            "title": "Este projeto foi desenvolvido em Java utilizando o padr\u00e3o MVC utilizando JavaSwing e banco de dados PostgreSQL com portabilidade para o hsqldb."
+        },
+        {
+            "location": "/Java/#o-projeto-foi-desenvolvido-seguindo-todas-as-etapas-de-desenvolvimento-desde-o-levantamento-de-requisitos-engenharia-de-software-desenvolvimento-do-projeto-manual-do-sistema-e-a-implantacao-real-do-sistema-em-um-cliente",
+            "text": "See Projeto Moto T\u00e1xi",
+            "title": "O projeto foi desenvolvido seguindo todas as etapas de desenvolvimento, desde o levantamento de requisitos, engenharia de software, desenvolvimento do projeto, manual do sistema e a implanta\u00e7\u00e3o real do sistema em um cliente."
+        },
+        {
+            "location": "/Javascript/",
+            "text": "Javascript\n\u00b6\n\n\nProjeto Jogo da Velha\n\u00b6\n\n\nProjeto de estudo JavaScript que \u00e9 exatamente o velho conhecido joga da velha, no qual a aplica\u00e7\u00e3o permite salvar o estado do jogo quando houver um ganhador.\n\u00b6\n\n\nSee Project\n\n\n\n\n\nAlguns Certificados\n\u00b6",
+            "title": "Javascript"
+        },
+        {
+            "location": "/Javascript/#javascript",
+            "text": "",
+            "title": "Javascript"
+        },
+        {
+            "location": "/Javascript/#projeto-jogo-da-velha",
+            "text": "",
+            "title": "Projeto Jogo da Velha"
+        },
+        {
+            "location": "/Javascript/#projeto-de-estudo-javascript-que-e-exatamente-o-velho-conhecido-joga-da-velha-no-qual-a-aplicacao-permite-salvar-o-estado-do-jogo-quando-houver-um-ganhador",
+            "text": "See Project",
+            "title": "Projeto de estudo JavaScript que \u00e9 exatamente o velho conhecido joga da velha, no qual a aplica\u00e7\u00e3o permite salvar o estado do jogo quando houver um ganhador."
+        },
+        {
+            "location": "/Javascript/#alguns-certificados",
+            "text": "",
+            "title": "Alguns Certificados"
+        },
+        {
+            "location": "/Links/",
+            "text": "Links\n\u00b6\n\n\nDesenvolvimento\n\u00b6\n\n\nMkdocs + Material + Django + Senha\n\u00b6\n\n\nhttps://github.com/luizddaniel/django_material\n\n\ndjango_mkdocs\n\u00b6\n\n\nhttps://www.hacksoft.io/blog/integrating-a-password-protected-mkdocs-in-django/",
+            "title": "Links"
+        },
+        {
+            "location": "/Links/#links",
+            "text": "",
+            "title": "Links"
+        },
+        {
+            "location": "/Links/#desenvolvimento",
+            "text": "",
+            "title": "Desenvolvimento"
+        },
+        {
+            "location": "/Links/#mkdocs-material-django-senha",
+            "text": "https://github.com/luizddaniel/django_material",
+            "title": "Mkdocs + Material + Django + Senha"
+        },
+        {
+            "location": "/Links/#django_mkdocs",
+            "text": "https://www.hacksoft.io/blog/integrating-a-password-protected-mkdocs-in-django/",
+            "title": "django_mkdocs"
+        },
+        {
+            "location": "/Python/",
+            "text": "Python\n\u00b6\n\n\nEstudando documenta\u00e7\u00e3o oficial\n\u00b6\n\n\n\n\nLinks utilizados para estudo e especializa\u00e7\u00e3o em Python\n\n\nPython.org\n\nhttps://www.python.org/doc/\n\n\nPython Developer\u2019s Guide: \n\nhttps://devguide.python.org/\n\n\nGeneral Python FAQ\n\nhttps://docs.python.org/3/faq/general.html",
+            "title": "Python"
+        },
+        {
+            "location": "/Python/#python",
+            "text": "",
+            "title": "Python"
+        },
+        {
+            "location": "/Python/#estudando-documentacao-oficial",
+            "text": "Links utilizados para estudo e especializa\u00e7\u00e3o em Python  Python.org https://www.python.org/doc/  Python Developer\u2019s Guide:  https://devguide.python.org/  General Python FAQ https://docs.python.org/3/faq/general.html",
+            "title": "Estudando documenta\u00e7\u00e3o oficial"
+        },
+        {
+            "location": "/Vuejs/",
+            "text": "Vuejs\n\u00b6\n\n\nCourse Vue.js\n\u00b6\n\n\n5 Aplica\u00e7\u00f5es desenvolvidas no curso de Vue.js 2 Mastering Web Apps\n\u00b6\n\n\nAplica\u00e7\u00f5es desenvolvidas consumindo uma API rest em Vue.js entre outros exemplos, como utilizar um card e tela de login e logout.\n\u00b6\n\n\nSee Project Vue.Js\n\n\n\n\n\nCertificados\n\u00b6",
+            "title": "Vuejs"
+        },
+        {
+            "location": "/Vuejs/#vuejs",
+            "text": "",
+            "title": "Vuejs"
+        },
+        {
+            "location": "/Vuejs/#course-vuejs",
+            "text": "",
+            "title": "Course Vue.js"
+        },
+        {
+            "location": "/Vuejs/#5-aplicacoes-desenvolvidas-no-curso-de-vuejs-2-mastering-web-apps",
+            "text": "",
+            "title": "5 Aplica\u00e7\u00f5es desenvolvidas no curso de Vue.js 2 Mastering Web Apps"
+        },
+        {
+            "location": "/Vuejs/#aplicacoes-desenvolvidas-consumindo-uma-api-rest-em-vuejs-entre-outros-exemplos-como-utilizar-um-card-e-tela-de-login-e-logout",
+            "text": "See Project Vue.Js",
+            "title": "Aplica\u00e7\u00f5es desenvolvidas consumindo uma API rest em Vue.js entre outros exemplos, como utilizar um card e tela de login e logout."
+        },
+        {
+            "location": "/Vuejs/#certificados",
+            "text": "",
+            "title": "Certificados"
+        }
+    ]
+}
