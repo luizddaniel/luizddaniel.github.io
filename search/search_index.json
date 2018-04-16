@@ -127,7 +127,7 @@
         },
         {
             "location": "/Delphi/",
-            "text": "Delphi\n\u00b6\n\n\nProjeto Aplicativo Fiscal\n\u00b6\n\n\nGera\u00e7\u00e3o de Arquivo Sped ICMS / Sped Contribui\u00e7\u00f5es\n\u00b6\n\n\nEste projeto est\u00e1 sendo desenvolvido para a gera\u00e7\u00e3o de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribui\u00e7\u00f5es para as empresas do regime Lucro Presumido e Lucro Real.\n\u00b6\n\n\nEste projeto visa atender toda a legisla\u00e7\u00e3o brasileira vigente, no qual os arquivos s\u00e3o gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto est\u00e1 em constante mudan\u00e7a pois a legisla\u00e7\u00e3o brasileira vem sofrendo altera\u00e7\u00f5es a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exig\u00eancias.\n\u00b6\n\n\nProjeto privado.\n\u00b6",
+            "text": "Delphi\n\u00b6\n\n\nProjeto ERP\n\u00b6\n\n\nSoftware de Gest\u00e3o de Empresas\n\u00b6\n\n\nA participa\u00e7\u00e3o desse projeto foi em criar as fucnionalidades CRUD de alguns m\u00f3dulos do software de gest\u00e3o empresarial, como clientes, produtos e financeiro.\n\u00b6\n\n\nEste projeto visa atender as necessidades di\u00e1rias de um gestor de atacado e varejo\n\u00b6\n\n\nProjeto privado.\n\u00b6",
             "title": "Delphi"
         },
         {
@@ -136,24 +136,24 @@
             "title": "Delphi"
         },
         {
-            "location": "/Delphi/#projeto-aplicativo-fiscal",
+            "location": "/Delphi/#projeto-erp",
             "text": "",
-            "title": "Projeto Aplicativo Fiscal"
+            "title": "Projeto ERP"
         },
         {
-            "location": "/Delphi/#geracao-de-arquivo-sped-icms-sped-contribuicoes",
+            "location": "/Delphi/#software-de-gestao-de-empresas",
             "text": "",
-            "title": "Gera\u00e7\u00e3o de Arquivo Sped ICMS / Sped Contribui\u00e7\u00f5es"
+            "title": "Software de Gest\u00e3o de Empresas"
         },
         {
-            "location": "/Delphi/#este-projeto-esta-sendo-desenvolvido-para-a-geracao-de-arquivos-fiscais-como-sintegra-para-as-empresas-que-se-enquadram-no-regime-do-simples-nacional-sped-icms-e-sped-contribuicoes-para-as-empresas-do-regime-lucro-presumido-e-lucro-real",
+            "location": "/Delphi/#a-participacao-desse-projeto-foi-em-criar-as-fucnionalidades-crud-de-alguns-modulos-do-software-de-gestao-empresarial-como-clientes-produtos-e-financeiro",
             "text": "",
-            "title": "Este projeto est\u00e1 sendo desenvolvido para a gera\u00e7\u00e3o de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribui\u00e7\u00f5es para as empresas do regime Lucro Presumido e Lucro Real."
+            "title": "A participa\u00e7\u00e3o desse projeto foi em criar as fucnionalidades CRUD de alguns m\u00f3dulos do software de gest\u00e3o empresarial, como clientes, produtos e financeiro."
         },
         {
-            "location": "/Delphi/#este-projeto-visa-atender-toda-a-legislacao-brasileira-vigente-no-qual-os-arquivos-sao-gerados-pelo-aplicativo-seguindo-o-manual-da-receita-sendo-assim-esse-projeto-esta-em-constante-mudanca-pois-a-legislacao-brasileira-vem-sofrendo-alteracoes-a-cada-semestre-tendo-que-estar-sempre-atualizando-o-aplicativo-para-atender-as-novas-exigencias",
+            "location": "/Delphi/#este-projeto-visa-atender-as-necessidades-diarias-de-um-gestor-de-atacado-e-varejo",
             "text": "",
-            "title": "Este projeto visa atender toda a legisla\u00e7\u00e3o brasileira vigente, no qual os arquivos s\u00e3o gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto est\u00e1 em constante mudan\u00e7a pois a legisla\u00e7\u00e3o brasileira vem sofrendo altera\u00e7\u00f5es a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exig\u00eancias."
+            "title": "Este projeto visa atender as necessidades di\u00e1rias de um gestor de atacado e varejo"
         },
         {
             "location": "/Delphi/#projeto-privado",
@@ -417,13 +417,38 @@
         },
         {
             "location": "/Java/",
-            "text": "JAVA\n\u00b6\n\n\nProjeto Controle de Patrim\u00f4nio\n\u00b6\n\n\nWorkshop Angular-Rest-Spring - Per\u00edodo: Fev 2018 \u2013 Mar 2018\n\u00b6\n\n\nProjeto desenvolvido no workshop-rest-angular-spring da AlgaWorks, no qual foi desenvolvido uma aplica\u00e7\u00e3o para controlar patrim\u00f4nio de uma empresa, bakend desenvolvido em JAVA utilizando o controle de dependencias com o POM.xml do Maven e utilizado o framework spring.\n\u00b6\n\n\nEste reposit\u00f3rio contem a aplica\u00e7\u00e3o RESTful desenvolvida com Java e Spring no back-end e Angular 4 no front-end com PrimeNG.\n\u00b6\n\n\nSee Workshop Project\n\n\n\n\n\nTask Project\n\u00b6\n\n\nProject name Task Project - Per\u00edodo: Jul 2016 \u2013 Sep 2016\n\u00b6\n\n\nProjeto de controle de tarefas e cadastro de usu\u00e1rios, no qual foi utilizado Hibernate configurado tanto para banco PostgreSQL como para MySQL com a necessidade de apenas alterar a configura\u00e7\u00e3o do hibernate.xml - Linguagem de desenvolvimento Java com JSF e Primefaces, tamb\u00e9m foi utilizado o framework Spring Security para o desenvolvimento do login com seguran\u00e7a.\n\u00b6\n\n\nSee Task Project\n\n\n\n\n\nMoto T\u00e1xi Project\n\u00b6\n\n\nProjeto Moto T\u00e1xi - Per\u00edodo: Mar 2010 \u2013 Dec 2010\n\u00b6\n\n\nProjeto desenvolvido para o Trabalho de Conclus\u00e3o de Curso - TCC.\n\u00b6\n\n\nEste projeto visa controlar todos os servi\u00e7os prestados de um Motoboy, onde a central tenha as informa\u00e7\u00f5es dos hor\u00e1rios, destino, cliente e valor do servi\u00e7o prestado.\n\u00b6\n\n\nCom esse software \u00e9 poss\u00edvel obter em relat\u00f3rios as informa\u00e7\u00f5es mensais dos servi\u00e7os prestados, tal como o cliente que mais utilizou o servi\u00e7o, qual motoboy que mais prestou servi\u00e7os e qual foi o Motoboy que prestou determinado servi\u00e7o para uma futura confer\u00eancia caso haja alguma irregularidade no servi\u00e7o prestado, no qual visa a melhorar o atendimento aos clientes.\n\u00b6\n\n\nEste projeto foi desenvolvido em Java utilizando o padr\u00e3o MVC utilizando JavaSwing e banco de dados PostgreSQL com portabilidade para o hsqldb.\n\u00b6\n\n\nO projeto foi desenvolvido seguindo todas as etapas de desenvolvimento, desde o levantamento de requisitos, engenharia de software, desenvolvimento do projeto, manual do sistema e a implanta\u00e7\u00e3o real do sistema em um cliente.\n\u00b6\n\n\nSee Projeto Moto T\u00e1xi",
+            "text": "JAVA\n\u00b6\n\n\nProjeto Aplicativo Fiscal\n\u00b6\n\n\nGera\u00e7\u00e3o de Arquivo Sped ICMS / Sped Contribui\u00e7\u00f5es\n\u00b6\n\n\nEste projeto est\u00e1 sendo desenvolvido para a gera\u00e7\u00e3o de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribui\u00e7\u00f5es para as empresas do regime Lucro Presumido e Lucro Real.\n\u00b6\n\n\nEste projeto visa atender toda a legisla\u00e7\u00e3o brasileira vigente, no qual os arquivos s\u00e3o gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto est\u00e1 em constante mudan\u00e7a pois a legisla\u00e7\u00e3o brasileira vem sofrendo altera\u00e7\u00f5es a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exig\u00eancias.\n\u00b6\n\n\nProjeto privado.\n\u00b6\n\n\nProjeto Controle de Patrim\u00f4nio\n\u00b6\n\n\nWorkshop Angular-Rest-Spring - Per\u00edodo: Fev 2018 \u2013 Mar 2018\n\u00b6\n\n\nProjeto desenvolvido no workshop-rest-angular-spring da AlgaWorks, no qual foi desenvolvido uma aplica\u00e7\u00e3o para controlar patrim\u00f4nio de uma empresa, bakend desenvolvido em JAVA utilizando o controle de dependencias com o POM.xml do Maven e utilizado o framework spring.\n\u00b6\n\n\nEste reposit\u00f3rio contem a aplica\u00e7\u00e3o RESTful desenvolvida com Java e Spring no back-end e Angular 4 no front-end com PrimeNG.\n\u00b6\n\n\nSee Workshop Project\n\n\n\n\n\nTask Project\n\u00b6\n\n\nProject name Task Project - Per\u00edodo: Jul 2016 \u2013 Sep 2016\n\u00b6\n\n\nProjeto de controle de tarefas e cadastro de usu\u00e1rios, no qual foi utilizado Hibernate configurado tanto para banco PostgreSQL como para MySQL com a necessidade de apenas alterar a configura\u00e7\u00e3o do hibernate.xml - Linguagem de desenvolvimento Java com JSF e Primefaces, tamb\u00e9m foi utilizado o framework Spring Security para o desenvolvimento do login com seguran\u00e7a.\n\u00b6\n\n\nSee Task Project\n\n\n\n\n\nMoto T\u00e1xi Project\n\u00b6\n\n\nProjeto Moto T\u00e1xi - Per\u00edodo: Mar 2010 \u2013 Dec 2010\n\u00b6\n\n\nProjeto desenvolvido para o Trabalho de Conclus\u00e3o de Curso - TCC.\n\u00b6\n\n\nEste projeto visa controlar todos os servi\u00e7os prestados de um Motoboy, onde a central tenha as informa\u00e7\u00f5es dos hor\u00e1rios, destino, cliente e valor do servi\u00e7o prestado.\n\u00b6\n\n\nCom esse software \u00e9 poss\u00edvel obter em relat\u00f3rios as informa\u00e7\u00f5es mensais dos servi\u00e7os prestados, tal como o cliente que mais utilizou o servi\u00e7o, qual motoboy que mais prestou servi\u00e7os e qual foi o Motoboy que prestou determinado servi\u00e7o para uma futura confer\u00eancia caso haja alguma irregularidade no servi\u00e7o prestado, no qual visa a melhorar o atendimento aos clientes.\n\u00b6\n\n\nEste projeto foi desenvolvido em Java utilizando o padr\u00e3o MVC utilizando JavaSwing e banco de dados PostgreSQL com portabilidade para o hsqldb.\n\u00b6\n\n\nO projeto foi desenvolvido seguindo todas as etapas de desenvolvimento, desde o levantamento de requisitos, engenharia de software, desenvolvimento do projeto, manual do sistema e a implanta\u00e7\u00e3o real do sistema em um cliente.\n\u00b6\n\n\nSee Projeto Moto T\u00e1xi",
             "title": "JAVA"
         },
         {
             "location": "/Java/#java",
             "text": "",
             "title": "JAVA"
+        },
+        {
+            "location": "/Java/#projeto-aplicativo-fiscal",
+            "text": "",
+            "title": "Projeto Aplicativo Fiscal"
+        },
+        {
+            "location": "/Java/#geracao-de-arquivo-sped-icms-sped-contribuicoes",
+            "text": "",
+            "title": "Gera\u00e7\u00e3o de Arquivo Sped ICMS / Sped Contribui\u00e7\u00f5es"
+        },
+        {
+            "location": "/Java/#este-projeto-esta-sendo-desenvolvido-para-a-geracao-de-arquivos-fiscais-como-sintegra-para-as-empresas-que-se-enquadram-no-regime-do-simples-nacional-sped-icms-e-sped-contribuicoes-para-as-empresas-do-regime-lucro-presumido-e-lucro-real",
+            "text": "",
+            "title": "Este projeto est\u00e1 sendo desenvolvido para a gera\u00e7\u00e3o de arquivos fiscais como Sintegra para as empresas que se enquadram no regime do Simples Nacional, SPED ICMS e SPED Contribui\u00e7\u00f5es para as empresas do regime Lucro Presumido e Lucro Real."
+        },
+        {
+            "location": "/Java/#este-projeto-visa-atender-toda-a-legislacao-brasileira-vigente-no-qual-os-arquivos-sao-gerados-pelo-aplicativo-seguindo-o-manual-da-receita-sendo-assim-esse-projeto-esta-em-constante-mudanca-pois-a-legislacao-brasileira-vem-sofrendo-alteracoes-a-cada-semestre-tendo-que-estar-sempre-atualizando-o-aplicativo-para-atender-as-novas-exigencias",
+            "text": "",
+            "title": "Este projeto visa atender toda a legisla\u00e7\u00e3o brasileira vigente, no qual os arquivos s\u00e3o gerados pelo aplicativo seguindo o manual da receita. Sendo assim esse projeto est\u00e1 em constante mudan\u00e7a pois a legisla\u00e7\u00e3o brasileira vem sofrendo altera\u00e7\u00f5es a cada semestre, tendo que estar sempre atualizando o aplicativo para atender as novas exig\u00eancias."
+        },
+        {
+            "location": "/Java/#projeto-privado",
+            "text": "",
+            "title": "Projeto privado."
         },
         {
             "location": "/Java/#projeto-controle-de-patrimonio",
